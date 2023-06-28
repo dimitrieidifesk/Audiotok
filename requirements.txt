@@ -1,0 +1,11 @@
+pyqt5==5.15.9
+pygame==2.4.0
+python-dotenv==1.0.0
+vk-api==11.9.9
+requests==2.30.0
+vk-audio==6.9
+HTMLParser==0.0.2
+keyboard
+pyaudio
+pydub==0.25.1
+simpleaudio==1.0.4
