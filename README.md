@@ -2,6 +2,8 @@
 
 Audiotok is a Python desktop application with a PyQT5 module interface that allows users to conveniently play audio from any folder on their computer. With Audiotok, you can switch tracks, pause, rewind, adjust the volume, and enjoy your favorite music hassle-free.
 
+![top-language](https://img.shields.io/github/languages/top/dimitrieidifesk/Audiotok)
+
 ## Key Features
 
 - **Easy Audio Playback**: Audiotok provides a user-friendly interface that allows you to effortlessly play audio files from any folder on your computer.
@@ -18,28 +20,20 @@ Audiotok is a Python desktop application with a PyQT5 module interface that allo
 
 2. Clone this repository to your local machine using the following command:
 
-   git clone https://github.com/your-username/audiotok.git
+   git clone https://github.com/dimitrieidifesk/audiotok.git
    
 
 
 3. Navigate to the project directory:
 
-   cd audiotok
-   
-
-
+       cd audiotok
 4. Install the dependencies using pip:
 
-   pip install -r requirements.txt
-   
-
-
+       pip install -r requirements.txt
 5. Run the application:
 
-   run_audiotok.sh  or  just click on label
+       run_audiotok.sh  or  just click on label
    
-
-
 ## Usage
 
 1. Launch the Audiotok application.
